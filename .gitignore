@@ -1,0 +1,6 @@
+*.pdf
+.venv/
+data/
+learning/videos/
+__pycache__/
+.ipynb_checkpoints/
