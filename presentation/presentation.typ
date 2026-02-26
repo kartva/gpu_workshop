@@ -3,6 +3,7 @@
 // Using polylux for Typst presentations.
 //
 
+#show link: underline
 #import "@preview/polylux:0.4.0": *
 #import "@preview/cetz:0.4.2"
 
@@ -28,6 +29,14 @@
 #show heading.where(level: 2): set text(size: 24pt, weight: "black", tracking: -1pt)
 
 #set document(author: "Kartavya Vashishtha")
+
+#slide[
+  = Before we start...
+  - This is technically a 'members-only' event (for student org. purposes.)
+  - Luckily, we count anyone in our Discord a member!
+
+  #align(center + horizon)[= #link("http://puhack.horse/discord", "http://puhack.horse/discord")]
+]
 
 #slide[
   = Before we start...
@@ -373,8 +382,6 @@
     = CODING TIEM!! <\- so excited I cna\'t  spell
   ]
 ]
-
-#show link: underline
 
 #slide[
   = Hacking Section!
