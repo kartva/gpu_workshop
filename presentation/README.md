@@ -1,3 +1,7 @@
+# Theme carried over from Kian Kasad:
+
+---
+
 # Typst monospaced theme
 
 A monospaced theme for Typst.
