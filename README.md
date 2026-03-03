@@ -19,16 +19,24 @@ Workshops are our way to introduce folks to the magic of Purdue Hackers! Partici
 
 ## Workshop photos!
 
-<img width="2565" height="1440" alt="image" src="https://github.com/user-attachments/assets/360d372d-f9e7-4f24-8879-f7267f03c909" />
-<img width="2565" height="1440" alt="image" src="https://github.com/user-attachments/assets/012838fc-e317-40d1-934c-62a01e95ba78" />
-
-![IMG_1144](https://github.com/user-attachments/assets/1d3406ba-d98b-4e0a-a23c-03c3db47d5c8)
-![DSC_2003](https://github.com/user-attachments/assets/070ee942-1e61-45f1-b13e-7c1ba91daf25)
-![DSC_2036](https://github.com/user-attachments/assets/ca745cab-c6fe-4672-9fc9-dad8093b58f8)
-![DSC_1997](https://github.com/user-attachments/assets/732473f9-aa03-4a4b-8249-c34b01b843d3)
-![DSC_1987](https://github.com/user-attachments/assets/68517a4b-d1fa-40a1-9a2c-7bf5626bbaa2)
-![DSC_1971](https://github.com/user-attachments/assets/55d3bb18-56a4-46c5-8a04-59d66d0336d2)
-
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/1d3406ba-d98b-4e0a-a23c-03c3db47d5c8" alt="IMG_1144"></td>
+    <td><img src="https://github.com/user-attachments/assets/68517a4b-d1fa-40a1-9a2c-7bf5626bbaa2" alt="DSC_1987"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/55d3bb18-56a4-46c5-8a04-59d66d0336d2" alt="DSC_1971"></td>
+    <td><img src="https://github.com/user-attachments/assets/ca745cab-c6fe-4672-9fc9-dad8093b58f8" alt="DSC_2036"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/732473f9-aa03-4a4b-8249-c34b01b843d3" alt="image"></td>
+    <td><img src="https://github.com/user-attachments/assets/360d372d-f9e7-4f24-8879-f7267f03c909" alt="image"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/012838fc-e317-40d1-934c-62a01e95ba78" alt="image"></td>
+    <td><img src="https://github.com/user-attachments/assets/070ee942-1e61-45f1-b13e-7c1ba91daf25" alt="DSC_2003"></td>
+  </tr>
+</table>
 
 This workshop took place on 27 Feb 2026.
 
